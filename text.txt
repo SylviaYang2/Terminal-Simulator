@@ -1,0 +1,11 @@
+This is an example of an input file
+with four different paragraphs.
+<p>
+The second paragraph is the longest
+with three lines, so your method should
+return 3 when processing this file.
+<p>
+<p>
+The third paragraph was empty. This one is just short.
+<p>
+
